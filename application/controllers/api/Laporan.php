@@ -18,6 +18,19 @@ class Laporan extends REST_Controller
         $id = $this->get('id');
         if ($id == '') {
             $laporan = $this->api->getLaporanlist()->result();
+            if ($laporan) {
+                $this->response([
+                    'status'    => true,
+                    'data'      => $laporan
+                    
+                ], REST_Controller::HTTP_OK);
+            }
+            else{
+                $this->response([
+                    'status'    => false,
+                    'message'   => 'Data not found' 
+                ], REST_Controller::HTTP_NOT_FOUND);
+            }
         
         } else {
             $laporan = $this->api->getLaporan($id)->result();
@@ -25,27 +38,39 @@ class Laporan extends REST_Controller
 
             $result = explode(",", $soal->no_soal);
 
-            // foreach ($result as $data) {
-            //     $new = $data->
-            // }
-            // var_dump($result);
+            if ($laporan) {
+                $this->response([
+                    'status'    => true,
+                    'data'      => [
+                        'header' => $laporan, 
+                        'no_soal' =>$result
+                        ]
+                    
+                ], REST_Controller::HTTP_OK);
+            }
+            else{
+                $this->response([
+                    'status'    => false,
+                    'message'   => 'Data not found' 
+                ], REST_Controller::HTTP_NOT_FOUND);
+            }
         }
         
-        if ($laporan) {
-            $this->response([
-                'status'    => true,
-                'data'      => [
-                    'header' => $laporan, 
-                    'no_soal' =>$result
-                    ]
+        // if ($laporan) {
+        //     $this->response([
+        //         'status'    => true,
+        //         'data'      => [
+        //             'header' => $laporan, 
+        //             'no_soal' =>$result
+        //             ]
                 
-            ], REST_Controller::HTTP_OK);
-        }
-        else{
-            $this->response([
-                'status'    => false,
-                'message'   => 'Data not found' 
-            ], REST_Controller::HTTP_NOT_FOUND);
-        }
+        //     ], REST_Controller::HTTP_OK);
+        // }
+        // else{
+        //     $this->response([
+        //         'status'    => false,
+        //         'message'   => 'Data not found' 
+        //     ], REST_Controller::HTTP_NOT_FOUND);
+        // }
     }
 }
