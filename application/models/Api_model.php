@@ -53,31 +53,41 @@ class Api_model extends CI_Model
 
     public function getLaporanlist()
     {
-        $this->db->select ( 'kelas.id_kelas, pengguna.id as id_peserta, proses.id_proses ,proses.nama as pnama,proses.no_peserta as pnopes, proses.sekolah as psekolah, proses.nama_kelas, proses.p_benar as jawaban_benar, proses.p_salah as jawaban_salah, proses.p_kosong as jawaban_kosong' ); 
-        $this->db->from ( 'proses' );
-        $this->db->join ( 'kelas', 'kelas.id_kelas = proses.id_kelas' , 'left' );
-        $this->db->join ( 'pengguna', 'pengguna.id = proses.id' , 'left' );
+        $this->db->select('kelas.id_kelas, pengguna.id as id_peserta, proses.id_proses ,proses.nama as pnama,proses.no_peserta as pnopes, proses.sekolah as psekolah, proses.nama_kelas, proses.p_benar as jawaban_benar, proses.p_salah as jawaban_salah, proses.p_kosong as jawaban_kosong');
+        $this->db->from('proses');
+        $this->db->join('kelas', 'kelas.id_kelas = proses.id_kelas', 'left');
+        $this->db->join('pengguna', 'pengguna.id = proses.id', 'left');
         // $this->db->join ( 'ujian', 'ujian.id_ujian = proses.id_ujian' , 'left' );
         // $this->db->like('proses.nama', $c);		
-        $this->db->order_by("proses.p_nilai", "desc"); 
-        $query = $this->db->get ();
+        $this->db->order_by("proses.p_nilai", "desc");
+        $query = $this->db->get();
+        return $query;
+    }
+
+    public function get_soal_by_id($id_soal = null, $soal = null)
+    {
+        $this->db->order_by("FIELD(id_soal, $soal)");
+        $this->db->select('*');
+        $this->db->from('soal');
+        $this->db->where_in('id_soal', $id_soal);
+        $query = $this->db->get();
         return $query;
     }
 
     public function getLaporanSoal($id = null)
     {
-        $this->db->select ( 'no_soal' ); 
-        $this->db->from ( 'proses' );
-        $this->db->join ( 'kelas', 'kelas.id_kelas = proses.id_kelas' , 'left' );
-        $this->db->join ( 'pengguna', 'pengguna.id = proses.id' , 'left' );
+        $this->db->select('no_soal');
+        $this->db->from('proses');
+        $this->db->join('kelas', 'kelas.id_kelas = proses.id_kelas', 'left');
+        $this->db->join('pengguna', 'pengguna.id = proses.id', 'left');
         // $this->db->join ( 'ujian', 'ujian.id_ujian = proses.id_ujian' , 'left' );
-        $this->db->join( 'soal', 'soal.id_soal = proses.no_soal' , 'left' );;
+        $this->db->join('soal', 'soal.id_soal = proses.no_soal', 'left');;
         // $this->db->like('proses.nama', $c);		
         if ($id != null) {
             $this->db->where('id_proses', $id);
         }
-        $this->db->order_by("proses.p_nilai", "desc"); 
-        $query = $this->db->get ();
+        $this->db->order_by("proses.p_nilai", "desc");
+        $query = $this->db->get();
         return $query;
     }
 

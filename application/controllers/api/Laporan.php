@@ -38,12 +38,19 @@ class Laporan extends REST_Controller
 
             $result = explode(",", $soal->no_soal);
 
+            $soal = implode("", $result);
+
+           
+            $soal_by_id = $this->api->get_soal_by_id($result, $soal)->result_array();
+            // var_dump($soal_by_id);
+							
+
             if ($laporan) {
                 $this->response([
                     'status'    => true,
                     'data'      => [
                         'header' => $laporan, 
-                        'no_soal' =>$result
+                        'no_soal' =>$soal_by_id
                         ]
                     
                 ], REST_Controller::HTTP_OK);
@@ -55,22 +62,5 @@ class Laporan extends REST_Controller
                 ], REST_Controller::HTTP_NOT_FOUND);
             }
         }
-        
-        // if ($laporan) {
-        //     $this->response([
-        //         'status'    => true,
-        //         'data'      => [
-        //             'header' => $laporan, 
-        //             'no_soal' =>$result
-        //             ]
-                
-        //     ], REST_Controller::HTTP_OK);
-        // }
-        // else{
-        //     $this->response([
-        //         'status'    => false,
-        //         'message'   => 'Data not found' 
-        //     ], REST_Controller::HTTP_NOT_FOUND);
-        // }
     }
 }
