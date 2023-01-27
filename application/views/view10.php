@@ -202,9 +202,11 @@
 						<?php 							
 							//no soal
 							$no_soal = explode(',',$hasil->no_soal);
+							
 							$no_soal1 = explode(',',$hasil->no_soal);
+							
 							sort($no_soal);
-							$soal = implode('',$no_soal);
+							$soal = implode(',',$no_soal);
 							
 							if($hasil->tipe==0)
 							{

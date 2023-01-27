@@ -1,11 +1,388 @@
-<p>Mrs. Teukolsky gave a test that was so difficult that she decided to scale the grades upward. She raised the lowest score, 42, to 60, and the highest score, 77, to 90. A linear function that gives a fair way to convert any other test score <img src="/cbt/assets/kcfinder/upload/images/quizsat4ahmadardikafixxESSAYFIXX001.png" style="height:19px; width:8px" /> to the new score <img src="/cbt/assets/kcfinder/upload/images/quizsat4ahmadardikafixxESSAYFIXX002.png" style="height:19px; width:8px" /> is\\\\\\</p>
+<p><img id="Picture 3" src="/cbt/assets/kcfinder/upload/images/penalaranmatptm2ekd002.png" style="height:205px; width:487px" /></p>
 
-<p>Suppose that, to get from point <img src="/cbt/assets/kcfinder/upload/images/quizsat4ahmadardikafixxESSAYFIXX003.png" style="height:19px; width:11px" /> to point <img src="/cbt/assets/kcfinder/upload/images/quizsat4ahmadardikafixxESSAYFIXX004.png" style="height:19px; width:8px" />, shown in the figure below, a traveller must either go north or east (up or right). For example, one possible path is to go 3 steps east then 3 steps north. How many possible paths are there from <img src="/cbt/assets/kcfinder/upload/images/quizsat4ahmadardikafixxESSAYFIXX003.png" style="height:19px; width:11px" /> to <img src="/cbt/assets/kcfinder/upload/images/quizsat4ahmadardikafixxESSAYFIXX004.png" style="height:19px; width:8px" /> that don`t include point <img src="/cbt/assets/kcfinder/upload/images/quizsat4ahmadardikafixxESSAYFIXX005.png" style="height:19px; width:9px" />?</p>
+<p>Hubungan antara panjang dan tinggi terumbu karang adalah sebagai berikut</p>
 
-<p><img id="Picture 16" src="/cbt/assets/kcfinder/upload/images/quizsat4ahmadardikafixxESSAYFIXX006.png" style="height:126px; width:210px" />\\\\\\</p>
+<p><img src="/cbt/assets/kcfinder/upload/images/penalaranmatptm2ekd003.png" style="height:17px; width:94px" /></p>
 
-<p>A typing class in elementary school is divided into three groups. The Red Robins, with 6 students, has an average typing speed of 60 words per minute; the Blue Wax Bills, with 10 students, has an average typing speed of 45 words per minute; and the Gold Finches, with 16 students, has an average typing speed of 30 words per minute. What is the average (arithmetic mean) of the typing speeds, in words per minute, for the class?\\\\\\</p>
+<p>Keterangan:</p>
 
-<p>For the function <img src="/cbt/assets/kcfinder/upload/images/quizsat4ahmadardikafixxESSAYFIXX007.png" style="height:19px; width:135px" />, if the graph of <img src="/cbt/assets/kcfinder/upload/images/quizsat4ahmadardikafixxESSAYFIXX008.png" style="height:19px; width:29px" /> is reflected across the <img src="/cbt/assets/kcfinder/upload/images/quizsat4ahmadardikafixxESSAYFIXX001.png" style="height:19px; width:8px" />-axis, the graph of a new function, <img src="/cbt/assets/kcfinder/upload/images/quizsat4ahmadardikafixxESSAYFIXX009.png" style="height:19px; width:30px" />, is produced. Find <img src="/cbt/assets/kcfinder/upload/images/quizsat4ahmadardikafixxESSAYFIXX010.png" style="height:19px; width:30px" />.\\\\\\</p>
+<p>tinggi terumbu karang <img src="/cbt/assets/kcfinder/upload/images/penalaranmatptm2ekd004.png" style="height:17px; width:8px" /> mm,</p>
 
-<p>if <img src="/cbt/assets/kcfinder/upload/images/quizsat4ahmadardikafixxESSAYFIXX011.png" style="height:30px; width:97px" />, find the value of <img src="/cbt/assets/kcfinder/upload/images/quizsat4ahmadardikafixxESSAYFIXX001.png" style="height:19px; width:8px" />\\\\\</p>
+<p>panjang terumbu karang <img src="/cbt/assets/kcfinder/upload/images/penalaranmatptm2ekd005.png" style="height:17px; width:8px" /> mm.</p>
+
+<p> </p>
+
+<p>Panjang terumbu karang yang tingginya 40 mm adalah….\</p>
+
+<p>26,63 mm\</p>
+
+<p>29,50 mm\</p>
+
+<p>29,95 mm\</p>
+
+<p>30,50 mm\</p>
+
+<p>Tidak ada jawaban yang benar\</p>
+
+<p> </p>
+
+<p>Joko minum obat dengan dosis 80 mg untuk mengontrol tekanan darahnya. Grafik berikut memperlihatkan dosis obat yang masih aktif dalam darah Joko selama empat hari. </p>
+
+<p><img id="Picture 4" src="/cbt/assets/kcfinder/upload/images/penalaranmatptm2ekd006.jpg" style="height:197px; width:301px" /></p>
+
+<p> </p>
+
+<p> </p>
+
+<p>Dari grafik tersebut terlihat bahwa dosis obat yang masih aktif dalam darah Joko setiap hari memiliki perbandingan yang hampir sama dengan hari sebelumnya. Pada akhir setiap hari, perkiraan persentase dosis obat yang masih aktif dari hari sebelumnya adalah …\</p>
+
+<p>20%\</p>
+
+<p>30%\</p>
+
+<p>40%\</p>
+
+<p>50%\</p>
+
+<p>80%\</p>
+
+<p><strong>Keterlibatan Perempuan di Parlemen Jawa–Bali pada 2016–2020</strong></p>
+
+<p><strong> </strong></p>
+
+<p>Menurut data dari World Bank (2019), negara Indonesia menduduki peringkat ke-7 se-Asia Tenggarauntuk keterwakilan perempuan di parlemen. Berdasarkan hasil Pemilu 2019, keterwakilan perempuan di Lembaga Legislatif Nasional (DPR-RI) berada pada angka 20,8 persen. Oleh karena itu, Menteri Pemberdayaan Perempuan dan Perlindungan Anak (PPPA), Bintang Puspayoga optimis keterwakilan perempuan di lembaga legislatif capai 30 persen pada Pemilu 2024. Menurutnya, kepemimpinan dan keterwakilan perempuan di bidang legislatif membawa angin segar bagi kualitas demokrasi suatu negara yang lebih sehat. Berikut ini ditampilkan data keterlibatan perempuan di Parlemen Jawa–Bali pada 2017 hingga 2020.</p>
+
+<p> </p>
+
+<p><img id="Picture 5" src="/cbt/assets/kcfinder/upload/images/penalaranmatptm2ekd007.png" style="height:372px; width:438px" /></p>
+
+<p> </p>
+
+<p> </p>
+
+<p>Sari kuliah di Fakultas Ilmu Sosial dan Ilmu Politik. Sari melakukan penelitian keterlibatan perempuan Jawa Barat dan Jawa Tengah di parlemen. Jika Sari meneliti pada 2017 hingga 2020 dan kemudian menghitung nlai jangkauan keterlibatan perempuan di parlemen Provinsi Jawa Tengah, berapa nilai jangkauan tersebut?\</p>
+
+<p>4,55%\</p>
+
+<p>2,13%\</p>
+
+<p>1,102%\</p>
+
+<p>2%\</p>
+
+<p>Tidak ada jawaban yang benar\</p>
+
+<p><strong>Keterlibatan Perempuan di Parlemen Jawa–Bali pada 2016–2020</strong></p>
+
+<p><strong> </strong></p>
+
+<p>Menurut data dari World Bank (2019), negara Indonesia menduduki peringkat ke-7 se-Asia Tenggarauntuk keterwakilan perempuan di parlemen. Berdasarkan hasil Pemilu 2019, keterwakilan perempuan di Lembaga Legislatif Nasional (DPR-RI) berada pada angka 20,8 persen. Oleh karena itu, Menteri Pemberdayaan Perempuan dan Perlindungan Anak (PPPA), Bintang Puspayoga optimis keterwakilan perempuan di lembaga legislatif capai 30 persen pada Pemilu 2024. Menurutnya, kepemimpinan dan keterwakilan perempuan di bidang legislatif membawa angin segar bagi kualitas demokrasi suatu negara yang lebih sehat. Berikut ini ditampilkan data keterlibatan perempuan di Parlemen Jawa–Bali pada 2017 hingga 2020.</p>
+
+<p> </p>
+
+<p><img id="Picture 1" src="/cbt/assets/kcfinder/upload/images/penalaranmatptm2ekd007.png" style="height:372px; width:438px" /></p>
+
+<p> </p>
+
+<p> </p>
+
+<p>Kemudian Sari juga menghitung nilai simpangan baku keterlibatan perempuan di parlemen Provinsi Jawa Barat. Berapakah nilai simpangan baku tersebut?\</p>
+
+<p>1,31%\</p>
+
+<p>5,82%\</p>
+
+<p>1,71%\</p>
+
+<p>2,13%\</p>
+
+<p>Tidak ada jawaban yang benar\</p>
+
+<p><strong>Keterlibatan Perempuan di Parlemen Jawa–Bali pada 2016–2020</strong></p>
+
+<p><strong> </strong></p>
+
+<p>Menurut data dari World Bank (2019), negara Indonesia menduduki peringkat ke-7 se-Asia Tenggarauntuk keterwakilan perempuan di parlemen. Berdasarkan hasil Pemilu 2019, keterwakilan perempuan di Lembaga Legislatif Nasional (DPR-RI) berada pada angka 20,8 persen. Oleh karena itu, Menteri Pemberdayaan Perempuan dan Perlindungan Anak (PPPA), Bintang Puspayoga optimis keterwakilan perempuan di lembaga legislatif capai 30 persen pada Pemilu 2024. Menurutnya, kepemimpinan dan keterwakilan perempuan di bidang legislatif membawa angin segar bagi kualitas demokrasi suatu negara yang lebih sehat. Berikut ini ditampilkan data keterlibatan perempuan di Parlemen Jawa–Bali pada 2017 hingga 2020.</p>
+
+<p> </p>
+
+<p><img id="Picture 2" src="/cbt/assets/kcfinder/upload/images/penalaranmatptm2ekd007.png" style="height:372px; width:438px" /></p>
+
+<p> </p>
+
+<p> </p>
+
+<p>Berdasarkan keterangan dan tabel keterlibatan perempuan di parlemen, centang (<strong>✓</strong>) pada pernyataan-pernyataan berikut yang benar. (Jawaban lebih dari satu)</p>
+
+<p><img id="Picture 9" src="/cbt/assets/kcfinder/upload/images/penalaranmatptm2ekd008.png" style="height:13px; width:14px" /> Persentase keterlibatan perempuan dalam parlemen Provinsi DKI Jakarta memiliki persentase lebih besar dibandingkan keterlibatan perempuan di lembaga legislatif nasional di 2019.</p>
+
+<p><img id="Picture 10" src="/cbt/assets/kcfinder/upload/images/penalaranmatptm2ekd008.png" style="height:13px; width:14px" /> Jangkauan keterlibatan perempuan dalam parlemen Provinsi DKI Jakarta sebesar 2,83%.</p>
+
+<p><img id="Picture 11" src="/cbt/assets/kcfinder/upload/images/penalaranmatptm2ekd008.png" style="height:13px; width:14px" /> Variansi keterlibatan perempuan dalam parlemen Provinsi Jawa Timur sebesar 1,5%.</p>
+
+<p><img id="Picture 12" src="/cbt/assets/kcfinder/upload/images/penalaranmatptm2ekd008.png" style="height:13px; width:14px" /> Simpangan rata-rata keterlibatan perempuan dalam parlemen Provinsi DKI Jakarta sebesar 1,18%.</p>
+
+<p><img id="Picture 13" src="/cbt/assets/kcfinder/upload/images/penalaranmatptm2ekd008.png" style="height:13px; width:14px" /> Simpangan baku keterlibatan perempuan dalam parlemen Provinsi Jawa Timur sebesar 1,23%.\</p>
+
+<p>Jawablah pada lembar jawaban yang telah disediakan\</p>
+
+<p>Jawablah pada lembar jawaban yang telah disediakan\</p>
+
+<p>Jawablah pada lembar jawaban yang telah disediakan\</p>
+
+<p>Jawablah pada lembar jawaban yang telah disediakan\</p>
+
+<p>Jawablah pada lembar jawaban yang telah disediakan\</p>
+
+<p><strong>Kampanye Antikekerasan pada Perempuan</strong></p>
+
+<p><strong> </strong></p>
+
+<p>Catatan tahunan Komnas Perempuan 2020 menunjukkan data kasus kekerasan terhadap perempuan dari lembaga layanan menurut tiga ranah sebagai berikut.</p>
+
+<p> </p>
+
+<p><img alt="Funnel chart
+
+Description automatically generated" id="Picture 6" src="/cbt/assets/kcfinder/upload/images/penalaranmatptm2ekd009.jpg" style="height:83px; width:432px" /></p>
+
+<p> </p>
+
+<p>Oleh karena itu, Komnas Perempuan bekerja sama dengan salah satu universitas di Bandung mengadakan kampanye antikekerasan pada perempuan dengan membagikan media informasi berupa <em>leaflet</em>, poster, dan <em>booklet</em> di sekolah, kampus, dan kantor wilayah Bandung. Biaya yang diperlukan untuk pembuatan media informasi tersebut sebagai berikut.</p>
+
+<p> </p>
+
+<p><img alt="Table
+
+Description automatically generated" id="Picture 7" src="/cbt/assets/kcfinder/upload/images/penalaranmatptm2ekd010.jpg" style="height:186px; width:483px" /></p>
+
+<p> </p>
+
+<p> </p>
+
+<p>Perbandingan antara kasus kekerasan terhadap perempuan menurut ranah komunitas sebesar . . . kali ranah negara\</p>
+
+<p>2 kali\</p>
+
+<p>3 kali\</p>
+
+<p><img src="/cbt/assets/kcfinder/upload/images/penalaranmatptm2ekd011.png" style="height:24px; width:15px" /> kali\</p>
+
+<p><img src="/cbt/assets/kcfinder/upload/images/penalaranmatptm2ekd012.png" style="height:24px; width:15px" /> kali\</p>
+
+<p>Tidak ada jawaban yang benar\</p>
+
+<p><strong>Kampanye Antikekerasan pada Perempuan</strong></p>
+
+<p><strong> </strong></p>
+
+<p>Catatan tahunan Komnas Perempuan 2020 menunjukkan data kasus kekerasan terhadap perempuan dari lembaga layanan menurut tiga ranah sebagai berikut.</p>
+
+<p> </p>
+
+<p><img alt="Funnel chart
+
+Description automatically generated" id="Picture 14" src="/cbt/assets/kcfinder/upload/images/penalaranmatptm2ekd013.jpg" style="height:83px; width:432px" /></p>
+
+<p> </p>
+
+<p>Oleh karena itu, Komnas Perempuan bekerja sama dengan salah satu universitas di Bandung mengadakan kampanye antikekerasan pada perempuan dengan membagikan media informasi berupa <em>leaflet</em>, poster, dan <em>booklet</em> di sekolah, kampus, dan kantor wilayah Bandung. Biaya yang diperlukan untuk pembuatan media informasi tersebut sebagai berikut.</p>
+
+<p> </p>
+
+<p><img alt="Table
+
+Description automatically generated" id="Picture 15" src="/cbt/assets/kcfinder/upload/images/penalaranmatptm2ekd010.jpg" style="height:186px; width:483px" /></p>
+
+<p> </p>
+
+<p> </p>
+
+<p>Berdasarkan informasi di atas, berilah tanda centang (<strong>✓</strong>) pada pernyataan-pernyataan berikut yang benar. (Jawaban lebih dari satu)</p>
+
+<p><img id="Picture 16" src="/cbt/assets/kcfinder/upload/images/penalaranmatptm2ekd014.png" style="height:14px; width:14px" /> Harga cetak satuan booklet adalah Rp 4.500,00.</p>
+
+<p><img id="Picture 17" src="/cbt/assets/kcfinder/upload/images/penalaranmatptm2ekd014.png" style="height:14px; width:14px" /> Harga cetak satuan leaflet lebih murah daripada poster.</p>
+
+<p><img id="Picture 18" src="/cbt/assets/kcfinder/upload/images/penalaranmatptm2ekd014.png" style="height:14px; width:14px" /> Biaya yang diperlukan untuk mencetak seluruh poster adalah Rp 98.000,00.</p>
+
+<p><img id="Picture 19" src="/cbt/assets/kcfinder/upload/images/penalaranmatptm2ekd015.png" style="height:13px; width:14px" /> Biaya yang diperlukan untuk mencetak seluruh leaflet lebih murah daripada seluruh booklet.</p>
+
+<p><img id="Picture 20" src="/cbt/assets/kcfinder/upload/images/penalaranmatptm2ekd015.png" style="height:13px; width:14px" /> Jika di kampus terdapat 4 fakultas, setiap fakultas akan menerima 140 leaflet, 5 poster, dan 80 booklet.\</p>
+
+<p>Jawablah pada lembar jawaban yang telah disediakan\</p>
+
+<p>Jawablah pada lembar jawaban yang telah disediakan\</p>
+
+<p>Jawablah pada lembar jawaban yang telah disediakan\</p>
+
+<p>Jawablah pada lembar jawaban yang telah disediakan\</p>
+
+<p>Jawablah pada lembar jawaban yang telah disediakan\</p>
+
+<p><strong>Perkembangbiakan Penguin</strong></p>
+
+<p><strong> </strong></p>
+
+<p>Normalnya penguin akan bereproduksi hanya 2 telur setahun sekali. Biasanya dari dua telur tersebut hanya satu yang akan bertahan hidup. Pada penguin <img src="/cbt/assets/kcfinder/upload/images/penalaranmatptm2ekd016.png" style="height:17px; width:70px" />, berat telur pertama 78 gram dan berat telur kedua berkisar 110 gram. Seorang peneliti memililki asumsi bagaimana pertambahan koloni penguin dalam satu tahun.</p>
+
+<p> </p>
+
+<p>Asumsinya pada awal tahun jumlah koloni penguin adalah 10.000 yang mana jumlah jantan dan betinanya sama. Setiap penguin akan membesarkan 1 anak setiap tahunnya. Saat akhir tahun, 20% dari populasi penguin (dewasa ataupun anak) mati. Penguin dengan umur satu tahun juga akan merawat satu anak. Namun, peneliti lain sudah lakukan penelitian mengenai perbandingan jumlah anak yang dirawat oleh 3 jenis penguin. Berikut data tahunan jumlah anak yang dirawat oleh penguin <em>Gentoo</em>, <em>Rockhopper, </em>dan <em>Magellanic.</em></p>
+
+<p> </p>
+
+<p><img alt="Chart, bar chart
+
+Description automatically generated" id="Picture 8" src="/cbt/assets/kcfinder/upload/images/penalaranmatptm2ekd017.jpg" style="height:392px; width:605px" /></p>
+
+<p> </p>
+
+<p> </p>
+
+<p>Berapa persen kelebihan berat telur kedua disbanding telur pertama pada penguin <em>rockhopper</em>?\</p>
+
+<p>28%\</p>
+
+<p>34%\</p>
+
+<p>41%\</p>
+
+<p>72%\</p>
+
+<p>81%\</p>
+
+<p><strong>Perkembangbiakan Penguin</strong></p>
+
+<p><strong> </strong></p>
+
+<p>Normalnya penguin akan bereproduksi hanya 2 telur setahun sekali. Biasanya dari dua telur tersebut hanya satu yang akan bertahan hidup. Pada penguin <img src="/cbt/assets/kcfinder/upload/images/penalaranmatptm2ekd016.png" style="height:17px; width:70px" />, berat telur pertama 78 gram dan berat telur kedua berkisar 110 gram. Seorang peneliti memililki asumsi bagaimana pertambahan koloni penguin dalam satu tahun.</p>
+
+<p> </p>
+
+<p>Asumsinya pada awal tahun jumlah koloni penguin adalah 10.000 yang mana jumlah jantan dan betinanya sama. Setiap penguin akan membesarkan 1 anak setiap tahunnya. Saat akhir tahun, 20% dari populasi penguin (dewasa ataupun anak) mati. Penguin dengan umur satu tahun juga akan merawat satu anak. Namun, peneliti lain sudah lakukan penelitian mengenai perbandingan jumlah anak yang dirawat oleh 3 jenis penguin. Berikut data tahunan jumlah anak yang dirawat oleh penguin <em>Gentoo</em>, <em>Rockhopper, </em>dan <em>Magellanic.</em></p>
+
+<p> </p>
+
+<p><img alt="Chart, bar chart
+
+Description automatically generated" id="Picture 21" src="/cbt/assets/kcfinder/upload/images/penalaranmatptm2ekd018.jpg" style="height:392px; width:605px" /></p>
+
+<p> </p>
+
+<p> </p>
+
+<p>Berdasarkan asumsi yang dibuat oleh peneliti, manakah rumus yang cocok untuk menggambarkan perkembangbiakan penguin P setelah 7 tahun?\</p>
+
+<p><img src="/cbt/assets/kcfinder/upload/images/penalaranmatptm2ekd019.png" style="height:17px; width:160px" />\</p>
+
+<p><img src="/cbt/assets/kcfinder/upload/images/penalaranmatptm2ekd020.png" style="height:17px; width:157px" />\</p>
+
+<p><img src="/cbt/assets/kcfinder/upload/images/penalaranmatptm2ekd021.png" style="height:17px; width:157px" />\</p>
+
+<p><img src="/cbt/assets/kcfinder/upload/images/penalaranmatptm2ekd022.png" style="height:17px; width:157px" />\</p>
+
+<p><img src="/cbt/assets/kcfinder/upload/images/penalaranmatptm2ekd023.png" style="height:17px; width:157px" />\</p>
+
+<p><strong>Perkembangbiakan Penguin</strong></p>
+
+<p><strong> </strong></p>
+
+<p>Normalnya penguin akan bereproduksi hanya 2 telur setahun sekali. Biasanya dari dua telur tersebut hanya satu yang akan bertahan hidup. Pada penguin <img src="/cbt/assets/kcfinder/upload/images/penalaranmatptm2ekd016.png" style="height:17px; width:70px" />, berat telur pertama 78 gram dan berat telur kedua berkisar 110 gram. Seorang peneliti memililki asumsi bagaimana pertambahan koloni penguin dalam satu tahun.</p>
+
+<p> </p>
+
+<p>Asumsinya pada awal tahun jumlah koloni penguin adalah 10.000 yang mana jumlah jantan dan betinanya sama. Setiap penguin akan membesarkan 1 anak setiap tahunnya. Saat akhir tahun, 20% dari populasi penguin (dewasa ataupun anak) mati. Penguin dengan umur satu tahun juga akan merawat satu anak. Namun, peneliti lain sudah lakukan penelitian mengenai perbandingan jumlah anak yang dirawat oleh 3 jenis penguin. Berikut data tahunan jumlah anak yang dirawat oleh penguin <em>Gentoo</em>, <em>Rockhopper, </em>dan <em>Magellanic.</em></p>
+
+<p> </p>
+
+<p><img alt="Chart, bar chart
+
+Description automatically generated" id="Picture 22" src="/cbt/assets/kcfinder/upload/images/penalaranmatptm2ekd024.jpg" style="height:392px; width:605px" /></p>
+
+<p> </p>
+
+<p> </p>
+
+<p>Berdasarkan diagram batang pada teks, berilah tanda centang (<strong>✓</strong>) pada pernyataan berikut yang benar atau salah!</p>
+
+<table border="1" cellpadding="0" cellspacing="0" class="MsoTableGrid" style="border-collapse:collapse; border:none">
+	<tbody>
+		<tr>
+			<td style="height:11.95pt; width:289.8pt">
+			<p><strong>Pernyataan</strong></p>
+			</td>
+			<td style="height:11.95pt; width:49.6pt">
+			<p><strong>Benar</strong></p>
+			</td>
+			<td style="height:11.95pt; width:46.75pt">
+			<p><strong>Salah</strong></p>
+			</td>
+		</tr>
+		<tr>
+			<td style="height:24.7pt; width:289.8pt">
+			<p>Pada tahun 2000, rata-rata jumlah anakan penguin yang berhasil dirawat lebih besar dari 0,6.</p>
+			</td>
+			<td style="height:24.7pt; width:49.6pt">
+			<p> </p>
+			</td>
+			<td style="height:24.7pt; width:46.75pt">
+			<p> </p>
+			</td>
+		</tr>
+		<tr>
+			<td style="height:24.7pt; width:289.8pt">
+			<p>Pada tahun 2006, rata-rata kurang dari 80% pasangan penguin berhasil merawat anaknya.</p>
+			</td>
+			<td style="height:24.7pt; width:49.6pt">
+			<p> </p>
+			</td>
+			<td style="height:24.7pt; width:46.75pt">
+			<p> </p>
+			</td>
+		</tr>
+		<tr>
+			<td style="height:11.95pt; width:289.8pt">
+			<p>Pada tahun 2015, ketiga jenis penguin ini akan punah.</p>
+			</td>
+			<td style="height:11.95pt; width:49.6pt">
+			<p> </p>
+			</td>
+			<td style="height:11.95pt; width:46.75pt">
+			<p> </p>
+			</td>
+		</tr>
+		<tr>
+			<td style="height:24.7pt; width:289.8pt">
+			<p>Rata-rata jumlah anakan penguin <em>Magellanic</em> yang dirawat turun angkanya antara tahun 2001 dan 2004.</p>
+			</td>
+			<td style="height:24.7pt; width:49.6pt">
+			<p> </p>
+			</td>
+			<td style="height:24.7pt; width:46.75pt">
+			<p> </p>
+			</td>
+		</tr>
+		<tr>
+			<td style="height:23.9pt; width:289.8pt">
+			<p>Penguin Gentoo terus mengalami penurunan jumlah anakan yang dirawat dari tahun ke tahun.</p>
+			</td>
+			<td style="height:23.9pt; width:49.6pt">
+			<p> </p>
+			</td>
+			<td style="height:23.9pt; width:46.75pt">
+			<p> </p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+<p>\Jawablah pada lembar jawaban yang telah disediakan\</p>
+
+<p>Jawablah pada lembar jawaban yang telah disediakan\</p>
+
+<p>Jawablah pada lembar jawaban yang telah disediakan\</p>
+
+<p>Jawablah pada lembar jawaban yang telah disediakan\</p>
+
+<p>Jawablah pada lembar jawaban yang telah disediakan</p>
